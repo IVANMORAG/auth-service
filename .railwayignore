@@ -1,0 +1,21 @@
+# Railway ignore file
+node_modules/
+.git/
+.env
+.env.local
+.env.development
+.env.test
+*.log
+logs/
+coverage/
+.nyc_output/
+docker-compose.yml
+docker-compose.*.yml
+Dockerfile.dev
+README.md
+.gitignore
+.dockerignore
+tests/
+__tests__/
+*.test.js
+*.spec.js
